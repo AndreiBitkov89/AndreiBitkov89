@@ -25,7 +25,7 @@ I’m passionate about quality-first development, continuous improvement, and en
 
 [Playwright](https://github.com/AndreiBitkov89/PlaywrightPetProject) – UI & API testing with Playwright + TypeScript, following best practices (POM, steps, Allure, CI/CD).
 
-[Selenide]([https://github.com/AndreiBitkov89/PlaywrightPetProject](https://github.com/AndreiBitkov89/selenide_project)) 
+[Selenide](https://github.com/AndreiBitkov89/selenide_project) 
  – Java + Selenide tests with variety of patterns and utility layers.
 
 🤝 Let’s Connect
