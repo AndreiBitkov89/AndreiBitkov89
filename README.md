@@ -21,13 +21,12 @@ I’m passionate about quality-first development, continuous improvement, and en
 
 🛠 Tech Stack
 <p align="left"> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" /> <img src="https://img.shields.io/badge/Selenide-4479A1?style=for-the-badge&logo=selenide&logoColor=white" /> <img src="https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apachejmeter&logoColor=white" /> <img src="https://img.shields.io/badge/REST%20Assured-000000?style=for-the-badge&logo=rest&logoColor=white" /> <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
-📂 My Projects
+📂 Examples of my work
 
-PlaywrightPetProject
- – UI & API testing with Playwright + TypeScript, following best practices (POM, Allure, CI/CD).
+[Playwright](https://github.com/AndreiBitkov89/PlaywrightPetProject) – UI & API testing with Playwright + TypeScript, following best practices (POM, steps, Allure, CI/CD).
 
-Selenide Project
- – Java + Selenide tests with structured Page Object design and utility layers.
+[Selenide]([https://github.com/AndreiBitkov89/PlaywrightPetProject](https://github.com/AndreiBitkov89/selenide_project)) 
+ – Java + Selenide tests with variety of patterns and utility layers.
 
 🤝 Let’s Connect
 
