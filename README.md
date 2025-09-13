@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an ISTQB-certified Quality Assurance Engineer with 5 years of experience in testing across all stages of the software development lifecycle – from requirements analysis to product deployment and support.
+I am an ISTQB-certified Quality Assurance Engineer with 6 years of experience in testing across all stages of the software development lifecycle – from requirements analysis to product deployment and support.
 
 🔍 About Me
 
